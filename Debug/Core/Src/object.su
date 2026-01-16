@@ -1,0 +1,7 @@
+../Core/Src/object.c:3:6:Queue_InitQueue	16	static
+../Core/Src/object.c:8:6:Object_InitObject	24	static
+../Core/Src/object.c:12:5:Queue_isFull	16	static
+../Core/Src/object.c:15:5:Queue_isEmpty	16	static
+../Core/Src/object.c:18:5:Queue_Push	24	static
+../Core/Src/object.c:33:5:Queue_Pop	16	static
+../Core/Src/object.c:49:8:Queue_Front	16	static

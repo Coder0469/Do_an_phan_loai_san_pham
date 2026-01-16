@@ -1,0 +1,7 @@
+../Core/Src/object.c:3:6:Queue_InitQueue	1
+../Core/Src/object.c:8:6:Object_InitObject	1
+../Core/Src/object.c:12:5:Queue_isFull	1
+../Core/Src/object.c:15:5:Queue_isEmpty	1
+../Core/Src/object.c:18:5:Queue_Push	3
+../Core/Src/object.c:33:5:Queue_Pop	3
+../Core/Src/object.c:49:8:Queue_Front	1

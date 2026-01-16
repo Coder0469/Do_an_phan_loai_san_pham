@@ -1,0 +1,4 @@
+../Core/Src/Servo_sg.c:26:13:Servo_SetAngle	6
+../Core/Src/Servo_sg.c:36:6:Servo_Init	1
+../Core/Src/Servo_sg.c:46:6:Servo_Run_HALDelay	3
+../Core/Src/Servo_sg.c:54:6:Servo_Run	3

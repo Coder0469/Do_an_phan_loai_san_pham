@@ -1,0 +1,4 @@
+../Core/Src/Servo_sg.c:26:13:Servo_SetAngle	24	static
+../Core/Src/Servo_sg.c:36:6:Servo_Init	8	static
+../Core/Src/Servo_sg.c:46:6:Servo_Run_HALDelay	24	static
+../Core/Src/Servo_sg.c:54:6:Servo_Run	16	static

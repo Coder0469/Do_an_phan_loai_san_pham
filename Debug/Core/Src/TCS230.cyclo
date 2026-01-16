@@ -1,0 +1,8 @@
+../Core/Src/TCS230.c:10:6:TCS230_Init	1
+../Core/Src/TCS230.c:21:6:TCS230_Init2	1
+../Core/Src/TCS230.c:34:6:setTypeColor	5
+../Core/Src/TCS230.c:57:6:setScaling	5
+../Core/Src/TCS230.c:81:6:calculateFrequency	5
+../Core/Src/TCS230.c:115:6:switchColor	5
+../Core/Src/TCS230.c:136:6:resetPreValue	1
+../Core/Src/TCS230.c:141:6:determineColor	7
