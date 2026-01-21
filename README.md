@@ -1,7 +1,7 @@
-Đồ án các thiết bị mạch điện tử
+# ĐỒ ÁN CÁC THIẾT BỊ MẠCH ĐIỆN TỬ
 
 Đề tài: băng chuyền phân loại 3 màu sắc đỏ, lục, lam
 
 Trạng thái: Đã hoàn thành
 
-**LINH KIỆN SỬ DỤNG**
+## **LINH KIỆN SỬ DỤNG**
