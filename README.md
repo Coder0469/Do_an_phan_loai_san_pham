@@ -15,3 +15,6 @@
 3. Biến lưu số lượng vật có màu đó được tăng lên
 4. MCU sẽ dựa trên thông tin của vật đứng đầu hàng (Front) và điều khiển cần gạt tương ứng, phân loại vật về đúng vị trí của nó
 5. Sau khi vật đã được phân loại, thông tin về màu của nó trong Queue sẽ bị xóa (Pop)
+
+## **VIDEO SẢN PHẨM**
+https://github.com/user-attachments/assets/61cbcc4a-0c35-435e-8d84-257fcc76591b
