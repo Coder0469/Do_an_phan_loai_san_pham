@@ -160,7 +160,7 @@ int main(void)
   Queue_InitQueue(&q);
   Queue_InitQueue(&q1);
 
-  Servo_Run(1, 0);
+  Servo_Run(1, 30);
   Servo_Run(2, 180);
 
   lcd_init();
@@ -228,16 +228,16 @@ int main(void)
 				  Servo_Run(1, 75);
 			  }
 			  else if(Queue_Front(&q).color == BLUE){
-				  Servo_Run(2, 135);
+				  Servo_Run(2, 140);
 			  }
 			  else{
-				  Servo_Run(1, 0);
+				  Servo_Run(1, 30);
 				  Servo_Run(2, 180);
 			  }
 		  }
 		  if(Queue_Front(&q).time <= 950){
 			  Queue_Pop(&q);
-			  Servo_Run(1, 0);
+			  Servo_Run(1, 30);
 			  Servo_Run(2, 180);
 		  }
 	  }
