@@ -1,6 +1,5 @@
 # ĐỒ ÁN CÁC THIẾT BỊ MẠCH ĐIỆN TỬ
-
-Đề tài: Băng chuyền phân loại 3 màu sắc đỏ, lục, lam
+Đề tài: Băng chuyền phân loại sản phẩm theo 3 màu sắc đỏ, lục, lam
 
 ## **LINH KIỆN SỬ DỤNG**
 - Bộ xử lý chính: **STM32F407VET6**
@@ -17,7 +16,5 @@
 5. Sau khi vật đã được phân loại, thông tin về màu của nó trong Queue sẽ bị xóa (Pop)
 
 ## **VIDEO SẢN PHẨM**
-
-https://github.com/user-attachments/assets/760661be-2dfc-4c92-8b71-449ced391339
 
 
