@@ -144,7 +144,7 @@ void determineColor(TCS_HandleTypeDef *TCS)
 	if(TCS->Red < 120 && TCS->Green < 120 && TCS->Blue < 120) *TCS->MyOutput = CLEAR;
 	else if (TCS->Red > TCS->Green && TCS->Red > TCS->Blue) *TCS->MyOutput = RED;
 //	else if (TCS->Green > TCS->Red && TCS->Green > TCS->Blue && TCS->Red > 70) *TCS->MyOutput = GREEN;
-	else if (TCS->Green > TCS->Red*1.9) *TCS->MyOutput = BLUE;
+	else if (TCS->Green > TCS->Red*1.7 && TCS->Green < TCS->Blue*1.6) *TCS->MyOutput = BLUE;
 	else *TCS->MyOutput = GREEN;
 
 }
