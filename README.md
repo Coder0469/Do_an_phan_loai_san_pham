@@ -2,7 +2,7 @@
 ## Đề tài: Băng chuyền phân loại sản phẩm theo 3 màu sắc đỏ, lục, lam
 
 <img src="https://github.com/user-attachments/assets/dcf69dca-6f92-4df0-8f7d-e5a6c3e65f3b" width="300">
-
+<img src="https://github.com/user-attachments/assets/895f41e2-e9a5-49ae-bd1a-e0956cb812f1" width="300">
 ## **LINH KIỆN SỬ DỤNG**
 - Bộ xử lý chính: **STM32F407VET6**
 - Cảm biến **LCS3200** để đọc giá trị màu
