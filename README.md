@@ -1,5 +1,5 @@
 # ĐỒ ÁN CÁC THIẾT BỊ MẠCH ĐIỆN TỬ
-Đề tài: Băng chuyền phân loại sản phẩm theo 3 màu sắc đỏ, lục, lam
+## Đề tài: Băng chuyền phân loại sản phẩm theo 3 màu sắc đỏ, lục, lam
 
 ## **LINH KIỆN SỬ DỤNG**
 - Bộ xử lý chính: **STM32F407VET6**
