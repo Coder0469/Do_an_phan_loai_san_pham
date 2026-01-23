@@ -20,3 +20,22 @@
 
 ## **VIDEO SẢN PHẨM**
 [![Xem Video Demo](https://img.youtube.com/vi/6F3wyrPdCC0/0.jpg)](https://www.youtube.com/shorts/6F3wyrPdCC0)
+
+English version
+## Project: Object classifier based on colors (Red, Green, Blue) using STM32
+
+## **COMPONENTS**
+- Main microcontrooler: **STM32F407VET6**
+- Color sensor: **LCS3200**
+- 2x **SG90** Servos acting as sorting arms
+- **LCD1602 Display** to show the quantity of items per color
+- 2x **LM2596** Buck converters to regulate voltage from the adapter to the components
+
+Here is the translation of the operating logic into English.
+
+## **HOW DOES IT WORK**
+1. When an object is placed on the conveyor belt, it is transported to the LCS3200 sensor to detect its color.
+2. The object's color information and the travel time from the sensor to the sorting arm are added (Pushed) into a Queue.
+3. The variable counting the quantity of items for that specific color is incremented.
+4. The MCU reads the data at the Front of the Queue and controls the corresponding servo arm to sort the object into its correct position.
+5. After the object has been sorted, its data is removed (Popped) from the Queue.
