@@ -17,5 +17,4 @@
 
 ## **VIDEO SẢN PHẨM**
 https://github.com/user-attachments/assets/02701837-55b5-4084-a8a8-6f8e9ca0a082
-https://youtube.com/shorts/6F3wyrPdCC0?feature=share
 
