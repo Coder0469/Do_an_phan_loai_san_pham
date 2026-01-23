@@ -13,7 +13,7 @@
 
 ## **CÁCH THỨC HOẠT ĐỘNG**
 1. Khi đặt vật lên băng chuyền, nó sẽ đưa vật đến cảm biến LCS3200 để xác định màu của vật
-2. Thông tin về màu của vật và thời gian tồn tại của nó sẽ được đưa vào hàng đợi (Queue)
+2. Thông tin về màu của vật và thời gian đi từ cảm biến đến cần gạt sẽ được đưa vào hàng đợi (Queue)
 3. Biến lưu số lượng vật có màu đó được tăng lên
 4. MCU sẽ dựa trên thông tin của vật đứng đầu hàng (Front) và điều khiển cần gạt tương ứng, phân loại vật về đúng vị trí của nó
 5. Sau khi vật đã được phân loại, thông tin về màu của nó trong Queue sẽ bị xóa (Pop)
