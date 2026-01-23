@@ -16,5 +16,5 @@
 5. Sau khi vật đã được phân loại, thông tin về màu của nó trong Queue sẽ bị xóa (Pop)
 
 ## **VIDEO SẢN PHẨM**
-
+https://youtube.com/shorts/6F3wyrPdCC0?feature=share
 
