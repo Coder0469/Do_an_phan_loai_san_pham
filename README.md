@@ -21,8 +21,9 @@
 ## **VIDEO SẢN PHẨM**
 [![Xem Video Demo](https://img.youtube.com/vi/6F3wyrPdCC0/0.jpg)](https://www.youtube.com/shorts/6F3wyrPdCC0)
 
+
 English version
-## Project: Object classifier based on colors (Red, Green, Blue) using STM32
+# Project: Object classifier based on colors (Red, Green, Blue) using STM32
 
 ## **COMPONENTS**
 - Main microcontrooler: **STM32F407VET6**
