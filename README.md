@@ -1,6 +1,6 @@
 # ĐỒ ÁN CÁC THIẾT BỊ MẠCH ĐIỆN TỬ
 ## Đề tài: Băng chuyền phân loại sản phẩm theo 3 màu sắc đỏ, lục, lam
-![anh1](https://github.com/user-attachments/assets/63337e1c-486f-4800-bf2b-fd7cf55a8b59) ![anh2](https://github.com/user-attachments/assets/a3d7ceb8-24e3-4bc8-ba26-67b24d2a6d08)
+<img src="file:///E:/work/C%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B/anh1.jpg" width="500">
 
 
 ## **LINH KIỆN SỬ DỤNG**
